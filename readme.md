@@ -26,3 +26,6 @@ Ejemplo: 4! = 1 x 2 x 3 x 4 = 24.
 Recuerda convertir a number el valor solicitado por prompt y verificar que sea un número para evitar errores en tu programa.
 Recuerda que para mostrar mensajes por el DOM, debes crear un archivo HTML y enlazar tu script.
 Para ayudarte puedes desarrollar un algoritmo y el pseudocódigo.
+
+live preview:
+https://bastcl.github.io/logica-programacion-3/
